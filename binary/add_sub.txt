@@ -1,0 +1,21 @@
+
+Binary addition and subtraction exercises
+-----------------------------------------
+
+0.  Addition. Solve the following. Write the solutions in base 2.
+    Use a pen and a paper.
+    Note: {100}_2 means 100 in base 2.
+
+  0.0   {100}_2 + {1}_2 = 101
+
+  0.1   {1111}_2 + {1}_2 = 1000
+
+  0.2   {1001110}_2 + {111011}_2 = 10001001
+
+  0.3   {1101}_2 + {1101}_2 = 
+
+  0.4   {1101}_2 + {1101}_2 + {1101}_2 + {1101}_2 = ?
+
+  0.5   Bonus: How much is {8}_10 * {1101}_2 ? (in base 2)
+        Note: * means multiplication.
+
